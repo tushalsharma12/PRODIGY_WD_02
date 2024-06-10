@@ -1,8 +1,8 @@
 body{
-    background-image: url("https://cdn3d.iconscout.com/3d/premium/thumb/stopwatch-3254537-2725151.png?f=webp");
+    background: url("i.png");
     background-repeat: no-repeat;
-    background-size: 800px 800px;
-    background-color: rgb(186, 56, 56);
+    background-size: 900px 800px;
+    background-color: rgb(75, 45, 192);
     padding: 0%;
 }
 
@@ -15,7 +15,7 @@ body{
     text-shadow: 2px 20px 20px white;
     margin-right: 30px;
     margin-top: 120px;
-    margin-left: 830px;
+    margin-left: 780px;
     text-transform: uppercase;
 }
 .count{
@@ -24,14 +24,14 @@ body{
     margin-top: 90px;
     font-size: 80px;
     margin-left: 1100px;
-    margin-right:180px;
+    margin-right:240px;
     border: 2px solid black;
     border-radius: 10%;
     padding: 10px 20px 10px 20px;
 }
 .controls{
     float: right;
-    margin-right: 135px;
+    margin-right: 200px;
     padding-top: 20px;
     
 }
@@ -53,10 +53,8 @@ h2{
     font-weight: 800;
 }
 #lapsList{
-    
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     margin-left: 1000px;
-
-    
 }
 
